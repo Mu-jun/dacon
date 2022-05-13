@@ -1,3 +1,6 @@
+gen_test/
+gen_train/
+gen_valid/
 dataset/
 open.zip
 
