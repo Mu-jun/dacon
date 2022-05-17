@@ -2,7 +2,7 @@ gen_test/
 gen_train/
 gen_valid/
 dataset/
-open.zip
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
