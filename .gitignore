@@ -3,7 +3,7 @@ gen_train/
 gen_valid/
 dataset/
 model/
-submission.csv
+result/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
