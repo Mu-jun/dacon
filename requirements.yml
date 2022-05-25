@@ -1,4 +1,4 @@
-name: base
+name: local_base
 channels:
   - conda-forge
   - defaults
@@ -427,4 +427,4 @@ dependencies:
     - tf-estimator-nightly==2.8.0.dev2021122109
     - tf2onnx==1.9.3
     - typing-extensions==3.7.4.3
-prefix: C:\Users\Mu-jun\anaconda3
+prefix: C:\Users\Mu-jun\anaconda3\env\local_base
