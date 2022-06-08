@@ -1,4 +1,5 @@
 num_sample = 10000
+batch_size = 8
 
 num_layers = 2
 d_model = 128
